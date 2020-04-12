@@ -1,0 +1,6 @@
+Idx,color,root,knocks,texture,navel,touch,label
+1,dark_green,curl_up,little_heavily,distinct,sinking,hard_smooth,Y
+3,black,curl_up,little_heavily,distinct,sinking,hard_smooth,Y
+11,light_white,stiff,clear,blur,even,hard_smooth,N
+12,light_white,curl_up,little_heavily,blur,even,soft_stick,N
+13,dark_green,little_curl_up,little_heavily,little_blur,sinking,hard_smooth,N
